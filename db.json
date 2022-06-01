@@ -1,0 +1,54 @@
+{
+  "pollos": [
+    {
+      "id": 1,
+      "description": "soy la description",
+      "url": "https://tugallinaonline.es/planeta-avicola/wp-content/uploads/2021/06/tipos-de-pollos.jpg",
+      "category":"pollo"
+    },
+    {
+      "id": 2,
+      "description": "vuelvo a ser description",
+      "url": "https://www.worldanimalprotection.cr/sites/default/files/styles/600x400/public/media/GettyImages-1222397810.jpg?h=411e6550&itok=KijU4YVy",
+      "category":"pollo"
+    },
+    {
+      "id": 3,
+      "description": "Avenida de la Cruz",
+      "url": "https://i.blogs.es/aaa93f/pollos-buena/450_1000.jpg",
+      "category":"puerca"
+    },
+    {
+      "id": 3,
+      "description": "hola aita",
+      "url": "https://elproductor.com/wp-content/uploads/2018/01/POLLOS-600x407-2.jpg",
+      "category":"puerca"
+    }
+  ],
+  "gallina": [
+    {
+      "id": 1,
+      "description": "soy la description",
+      "url": "https://tugallinaonline.es/planeta-avicola/wp-content/uploads/2021/06/tipos-de-pollos.jpg",
+      "category":"pollo"
+    },
+    {
+      "id": 2,
+      "description": "vuelvo a ser description",
+      "url": "https://www.worldanimalprotection.cr/sites/default/files/styles/600x400/public/media/GettyImages-1222397810.jpg?h=411e6550&itok=KijU4YVy",
+      "category":"pollo"
+    },
+    {
+      "id": 3,
+      "description": "Avenida de la Cruz",
+      "url": "https://i.blogs.es/aaa93f/pollos-buena/450_1000.jpg",
+      "category":"puerca"
+    },
+    {
+      "id": 3,
+      "description": "hola aita",
+      "url": "https://elproductor.com/wp-content/uploads/2018/01/POLLOS-600x407-2.jpg",
+      "category":"puerca"
+    }
+  ]
+}
